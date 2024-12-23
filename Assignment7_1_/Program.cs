@@ -4,10 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Assignment7.1.1");
-            Console.WriteLine("===============\n");
-
-            Console.WriteLine("Assignment7.1.2");
+            Console.WriteLine("Assignment 7.1.1 & 7.1.2");
             Console.WriteLine("===============\n");
 
             string result1 = MergeStrings("abc", "pqr");
